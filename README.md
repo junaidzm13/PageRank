@@ -4,7 +4,7 @@
 
 ## How to run?
   - In the repository, run command: **python pagerank.py corpus0**
-  - Where corpus0, corpus1 and corpus2 is a directory containing different web pages
+  - Where corpus0, corpus1 and corpus2 are directories containing different web pages
 
 ## Background
 When search engines like Google display search results, they do so by placing more “important” and higher-quality pages higher in the search results than less important pages. But how does the search engine know which pages are more important than other pages?
