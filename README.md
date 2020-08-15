@@ -3,7 +3,7 @@
 ### Developed and implemented an AI to rank pages by importance using Random Surfer Model and Iterative Algorithm.
 
 ## How to run?
-  - python pagerank.py corpus0
+  - In the repository, run command: **python pagerank.py corpus0**
   - Where corpus0, corpus1 and corpus2 is a directory containing different web pages
 
 ## Background
